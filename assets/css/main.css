@@ -10,8 +10,8 @@
 /* Colors */
 :root {
   --color-default: #2b180d;
-  --color-primary: #56b8e6;
-  --color-secondary: #1b2f45;
+  --color-primary: #59abe3;
+  --color-secondary: #1d3f59;
 }
 
 /* Smooth scroll behavior */
@@ -34,7 +34,7 @@ a {
 }
 
 a:hover {
-  color: #82cbed;
+  color: #59abe3;
   text-decoration: none;
 }
 
